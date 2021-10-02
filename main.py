@@ -1,6 +1,7 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import yaml
+import time
 
 # Opening and loading the YAML file with the credentials
 conf = yaml.load(open('credentials.yaml'))
@@ -25,6 +26,9 @@ submit_buttonIdSF = "okta-signin-submit"
 usernameId8x8 = "user"
 passwordId8x8 = "pass"
 submit_buttonId8x8 = "login_b"
+
+# URL of TODO Google sheet
+urlTODO = "https://docs.google.com/spreadsheets/d/1RvrsAlk824gViSW8tanxLxHDGy13J6KN_ghsKQygN0o/edit#gid=0"
 
 #Initiating Selenium Webdriver, and specifying Chrome Work profile
 options = webdriver.ChromeOptions()
@@ -51,10 +55,21 @@ def login8x8(url,usernameField8x8,username,passwordField8x8,password, submit_but
     driver.find_element_by_id(submit_buttonId8x8).click()
     driver.switch_to.window(driver.window_handles[0])
 
-# calling loginSF and login8x8 functions
+
+
+# Function to open TODO google sheet in a new tab, and switch back to SF tab
+def TODOsheets(urlSheets):
+    driver.execute_script("window.open('');")
+    driver.switch_to.window(driver.window_handles[2])
+    driver.get(urlSheets)
+    time.sleep(5)
+    driver.switch_to.window(driver.window_handles[0])
+
+
+# calling loginSF, login8x8 and TODOsheets functions
 loginSF(urlSF,usernameIdSF, myEmailSF, passwordIdSF, myPasswordSF, submit_buttonIdSF)
 login8x8(url8x8,usernameId8x8, email8x8, passwordId8x8, password8x8, submit_buttonId8x8)
-
+TODOsheets(urlTODO)
 
 
 

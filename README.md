@@ -7,3 +7,10 @@ For now, this python script will automatically open a Chrome window, using my wo
 We are not using the login credentials directly in the code. We store those in a separate YAML file (credentials.yaml), and then pass them to the python script.
 
 More functionality will be added in future commits.
+
+#UPDATE
+
+Following features have been added - 
+
+1. Automate logging in to 8x8
+2. Open TODO google sheets, which keeps track of case activity. 
