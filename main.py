@@ -2,6 +2,10 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import yaml
 import time
+import pickle
+from os import path
+import os
+from applications import *
 
 # Opening and loading the YAML file with the credentials
 conf = yaml.load(open('credentials.yaml'))
@@ -40,9 +44,19 @@ driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=option
 # Function to open Salesforce, enter username/password and click on submit
 def loginSF(url,usernameId, username, passwordId, password, submit_buttonId):
     driver.get(url)
+    # Checking existing cookies to see if we have previously logged in
+    if path.exists("cookies.pkl"):
+        print("Cookie file exists. We are loading cookies now.")
+        for cookie in pickle.load(open("cookies.pkl", "rb")):
+            driver.add_cookie(cookie)
+
     driver.find_element_by_id(usernameId).send_keys(username)
     driver.find_element_by_id(passwordId).send_keys(password)
     driver.find_element_by_id(submit_buttonId).click()
+    pickle.dump(driver.get_cookies(), open("cookies.pkl", "wb"))
+    # letting page load completely
+    time.sleep(20)
+
 
 
 # Function to open a new tab, switch to new tab, open 8x8, enter username/password and click on login, and switch back to SF browser window
@@ -54,7 +68,6 @@ def login8x8(url,usernameField8x8,username,passwordField8x8,password, submit_but
     driver.find_element_by_id(passwordField8x8).send_keys(password)
     driver.find_element_by_id(submit_buttonId8x8).click()
     driver.switch_to.window(driver.window_handles[0])
-
 
 
 # Function to open TODO google sheet in a new tab, and switch back to SF tab
@@ -70,6 +83,10 @@ def TODOsheets(urlSheets):
 loginSF(urlSF,usernameIdSF, myEmailSF, passwordIdSF, myPasswordSF, submit_buttonIdSF)
 login8x8(url8x8,usernameId8x8, email8x8, passwordId8x8, password8x8, submit_buttonId8x8)
 TODOsheets(urlTODO)
+
+# Calling functions to open Outlook and Slack, from applications.py
+openOutlook()
+openSlack()
 
 
 
