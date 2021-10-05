@@ -1,0 +1,1778 @@
+1633414490690	geckodriver	INFO	Listening on 127.0.0.1:51775
+1633414491706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633414491921	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:44:52.554 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSButton: 0x132c2fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.555 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSButton: 0x132c33000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.555 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSButton: 0x132c33400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.556 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSButton: 0x132c2f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.557 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSButton: 0x132c33c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.557 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132c30000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:44:52.558 firefox-bin[69426:884244] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132cb3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633414493595	Marionette	INFO	Listening on port 51786
+1633414493692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633414503996	geckodriver	INFO	Listening on 127.0.0.1:51842
+1633414505013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906974
+1633414613547	Marionette	INFO	Stopped listening on port 51786
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633414652959	geckodriver	INFO	Listening on 127.0.0.1:51942
+1633414653975	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633414654194	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:47:34.789 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSButton: 0x13514f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.789 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSButton: 0x135155400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.790 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSButton: 0x13514e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.791 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSButton: 0x13514fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.791 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSButton: 0x135150400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.792 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x135151c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:47:34.792 firefox-bin[69609:886467] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1351d8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633414655792	Marionette	INFO	Listening on port 51953
+1633414655852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633414713652	geckodriver	INFO	Listening on 127.0.0.1:52003
+1633414714668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906976
+1633414717587	Marionette	INFO	Stopped listening on port 51953
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 53: TypeError: Svc.Prefs is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633414717886	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:48:38.519 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSButton: 0x13aac3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.520 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSButton: 0x13aac1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.521 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSButton: 0x13aac2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.521 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSButton: 0x13aac1c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.522 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSButton: 0x13aac4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.523 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13aac5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:48:38.523 firefox-bin[69684:887805] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13ab51c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1633414719683	Marionette	INFO	Listening on port 52014
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633414719762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633414823283	geckodriver	INFO	Listening on 127.0.0.1:52094
+1633414824297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633414824634	Marionette	INFO	Stopped listening on port 52014
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 53: TypeError: Svc.Prefs is undefined
+1633414824915	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:50:25.597 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSButton: 0x12d7ae000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.598 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSButton: 0x12d7afc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.598 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSButton: 0x12d7b3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.599 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSButton: 0x12d7b0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.600 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSButton: 0x12d7b0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.601 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12d7b2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:50:25.601 firefox-bin[69807:889247] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12d838400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633414826621	Marionette	INFO	Listening on port 52105
+1633414826684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633414856186	Marionette	INFO	Stopped listening on port 52105
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633414859076	geckodriver	INFO	Listening on 127.0.0.1:52165
+1633414860091	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633414860292	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:51:00.892 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSButton: 0x138748c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.893 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSButton: 0x138746c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.894 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSButton: 0x138745400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.894 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSButton: 0x138749400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.895 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSButton: 0x138742c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.895 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x138745c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:51:00.896 firefox-bin[69974:890800] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1387d3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633414861896	Marionette	INFO	Listening on port 52176
+1633414861956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906972
+1633414940193	Marionette	INFO	Stopped listening on port 52176
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 53: TypeError: Svc.Prefs is undefined
+1633415289602	geckodriver	INFO	Listening on 127.0.0.1:52284
+1633415290615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415290819	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:58:11.430 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSButton: 0x122f09c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.431 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSButton: 0x13272c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.431 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSButton: 0x132729800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.432 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSButton: 0x13272a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.432 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSButton: 0x132728c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.433 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x132725c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:58:11.434 firefox-bin[70439:896290] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1327b7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415292475	Marionette	INFO	Listening on port 52295
+1633415292492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633415302455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/GEN/js/isomorphic/system/modules/ISC_Combined.js?_v=11216, line 10126: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/GEN/js/isomorphic/system/modules/ISC_Combined.js?_v=11216, line 10126: unreachable code after return statement
+JavaScript warning: https://vcc-na7b.8x8.com/mashup/v1/mashup/sc/modules/ISC_Grids.js, line 2378: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906956
+1633415394074	Marionette	INFO	Stopped listening on port 52295
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 53: TypeError: Svc.Prefs is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415397737	geckodriver	INFO	Listening on 127.0.0.1:52429
+1633415398752	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415398963	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 11:59:59.552 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSButton: 0x130e30000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.552 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSButton: 0x130e2e400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.553 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSButton: 0x130e31800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.554 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSButton: 0x130e32800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.554 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSButton: 0x1129e6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.555 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130e2cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 11:59:59.555 firefox-bin[70569:897963] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130ebd000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415400527	Marionette	INFO	Listening on port 52440
+1633415400624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/GEN/js/isomorphic/system/modules/ISC_Combined.js?_v=11216, line 10126: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/mashup/v1/mashup/sc/modules/ISC_Grids.js, line 2378: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/GEN/js/isomorphic/system/modules/ISC_Combined.js?_v=11216, line 10126: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906977
+1633415434152	Marionette	INFO	Stopped listening on port 52440
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415435541	geckodriver	INFO	Listening on 127.0.0.1:52631
+1633415436556	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415436760	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:00:37.355 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSButton: 0x139b43400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.356 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSButton: 0x139b46800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.356 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSButton: 0x139b45c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.357 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSButton: 0x139b40800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.357 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSButton: 0x139b46000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.358 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139b45000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:00:37.359 firefox-bin[70676:899013] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139bca800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415438347	Marionette	INFO	Listening on port 52642
+1633415438439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/mashup/v1/mashup/sc/modules/ISC_Grids.js, line 2378: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906991
+1633415721422	Marionette	INFO	Stopped listening on port 52642
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633415724963	geckodriver	INFO	Listening on 127.0.0.1:52901
+1633415725978	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415726197	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:05:26.808 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSButton: 0x128f03400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.808 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSButton: 0x13852c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.809 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSButton: 0x13852e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.810 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSButton: 0x13852c800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.810 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSButton: 0x13852d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.811 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13852d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:05:26.811 firefox-bin[70841:902293] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1385b9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415727838	Marionette	INFO	Listening on port 52912
+1633415727876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nutanix.okta.com"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906982
+1633415800482	Marionette	INFO	Stopped listening on port 52912
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415803848	geckodriver	INFO	Listening on 127.0.0.1:52978
+1633415804864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415805069	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:06:45.664 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSButton: 0x128603000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.665 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSButton: 0x137e25800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.665 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSButton: 0x137e25c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.666 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSButton: 0x137e26000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.666 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSButton: 0x137e26400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.667 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137e28400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:06:45.668 firefox-bin[71015:904028] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137ead800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415806685	Marionette	INFO	Listening on port 52989
+1633415806738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://vcc-na7b.8x8.com/mashup/v1/mashup/sc/modules/ISC_Grids.js, line 2378: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: TypeError: document.body is null
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633415908683	Marionette	INFO	Stopped listening on port 52989
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633415911756	geckodriver	INFO	Listening on 127.0.0.1:53205
+1633415912773	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633415912981	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:08:33.576 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSButton: 0x11edec800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.576 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSButton: 0x12f024000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.577 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSButton: 0x12f022000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.577 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSButton: 0x12f024800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.578 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSButton: 0x12f027400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.579 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f025800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:08:33.579 firefox-bin[71161:906155] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f0a9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633415914549	Marionette	INFO	Listening on port 53216
+1633415914647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+1633415922163	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=eb5e94cbe043e777061136e3bc25a68cbb84aeb473cda690e624c1d6742b8714, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://vcc-na7b.8x8.com/mashup/v1/mashup/sc/modules/ISC_Grids.js, line 2378: unreachable code after return statement
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://docs.google.com/static/spreadsheets2/client/js/1368330691-waffle_js_prod_core.js, line 520: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://nutanix.my.salesforce.com/jslibrary/1607407272232/sfdc/ServiceDesk.js, line 1232: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906993
+1633416117979	Marionette	INFO	Stopped listening on port 53216
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://services-sync/engines/extension-storage.js, line 53: TypeError: Svc.Prefs is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633416142551	geckodriver	INFO	Listening on 127.0.0.1:53550
+1633416143567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633416143774	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:12:24.378 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSButton: 0x13c03e800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.378 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSButton: 0x13c03c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.379 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSButton: 0x13c03d000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.380 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSButton: 0x13c03d400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.380 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSButton: 0x13c03ec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.381 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c03f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:12:24.382 firefox-bin[72048:912406] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13c0c3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633416145369	Marionette	INFO	Listening on port 53561
+1633416145438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+1633416152360	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Port.onMessage event fired while context is inactive.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=f5d12613c256fd2d6d227f38798bd33b36f5a2cf5f9e3ddec4a7a87cff8c279e, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2942: TypeError: event.target.closest is not a function
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-WRXS6TH, line 347: unreachable code after return statement
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: moz-extension://1706e520-3788-744e-824d-fcb5c61e4390/shared/shared.js, line 65: uncaught exception: not a string: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633416230375	Marionette	INFO	Stopped listening on port 53561
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633416234926	geckodriver	INFO	Listening on 127.0.0.1:53833
+1633416235942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633416236151	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:13:56.736 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSButton: 0x13cb45800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.737 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSButton: 0x13cb4bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.738 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSButton: 0x13cb4a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.738 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSButton: 0x13cb47400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.739 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSButton: 0x13cb4c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.740 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13cb4b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:13:56.740 firefox-bin[72177:913976] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13cbd0000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633416237777	Marionette	INFO	Listening on port 53844
+1633416237815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633416245244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=52163b074b02262577adab24e0db86e7427fafc758af808527fd1ce8ee5f1115, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://portal.nutanix.com/page/js/main.5649bbe0d75247761a97.bundle.js, line 1: TypeError: Object(...)().then(...).fail is not a function
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906976
+1633416402508	Marionette	INFO	Stopped listening on port 53844
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633416408677	geckodriver	INFO	Listening on 127.0.0.1:54146
+1633416409691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633416409896	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:16:50.489 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSButton: 0x13654a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.490 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSButton: 0x13654b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.490 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSButton: 0x136548400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.491 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSButton: 0x136548800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.492 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSButton: 0x136545800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.493 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13654b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:16:50.493 firefox-bin[72343:916595] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1365cd400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633416411436	Marionette	INFO	Listening on port 54157
+1633416411465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+1633416418923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=5cb12c61bcb33c2ca2fb3b35e7c52eb10ecd64f0161d6080a6242070f3e0b900, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://assets.adobedtm.com/2cd47122fe1d/d9891d7a991d/launch-15ea444b1708.min.js, line 6: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633416488592	Marionette	INFO	Stopped listening on port 54157
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633416490629	geckodriver	INFO	Listening on 127.0.0.1:54439
+1633416491645	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633416491849	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:18:12.431 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSButton: 0x12ee1a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.432 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSButton: 0x12ee20400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.432 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSButton: 0x12ee20800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.433 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSButton: 0x12ee21000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.434 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSButton: 0x12ee1dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.434 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ee1f800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:18:12.435 firefox-bin[72465:917970] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12eea7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633416493401	Marionette	INFO	Listening on port 54450
+1633416493511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633416501756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633416509316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=e36b1f235e0236feaf3181225825aece6f0313b128abbd2270a28d2686aa6f9d, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/onloadwff.js, line 71: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: moz-extension://1706e520-3788-744e-824d-fcb5c61e4390/shared/preload-content.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+1633416811390	geckodriver	INFO	Listening on 127.0.0.1:54812
+1633416812405	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906972
+1633416815815	Marionette	INFO	Stopped listening on port 54450
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633416816239	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:23:37.064 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSButton: 0x1385db800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.064 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSButton: 0x1385dec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.065 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSButton: 0x1385df000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.066 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSButton: 0x1385da800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.066 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSButton: 0x1385df800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.067 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1385e0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:23:37.067 firefox-bin[72870:924206] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a263c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633416818434	Marionette	INFO	Listening on port 54823
+1633416818537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+1633416825928	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=d9d21c498ea18fea689793a908dbbf04fab4f36f96f6014f6a87a6c98ecf2155, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/LftQ-87gh8ukbv8P1dh67h7Vjfro8G7aRn_R6x3uKA4.js line 1 > eval line 3748 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906975
+1633417024118	Marionette	INFO	Stopped listening on port 54823
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://nutanix.my.salesforce.com/jslibrary/1607407272232/sfdc/ServiceDesk.js, line 1232: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633417027688	geckodriver	INFO	Listening on 127.0.0.1:55179
+1633417028706	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633417028923	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:27:09.567 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSButton: 0x12eeb5000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.567 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSButton: 0x12eeb3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.568 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSButton: 0x12eeb6000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.569 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSButton: 0x12eeb2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.569 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSButton: 0x12eeb7000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.570 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12eeb3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:27:09.571 firefox-bin[73057:927175] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12eebc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1633417031046	Marionette	INFO	Listening on port 55190
+1633417031118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+1633417038316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=50ff82e1068707478f5cb5bd207d2e0e287a07ee7a6cbb52749cd702894418a7, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://www.google.com/js/bg/xw_qu1Woa0a8-QvlNFpeeNUXjjB_VTYqYIWlm7qrGmU.js line 1 > eval line 2264 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit support@lastpass.com.274877906972
+1633417352020	Marionette	INFO	Stopped listening on port 55190
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633417353521	geckodriver	INFO	Listening on 127.0.0.1:55485
+1633417354535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-profile" "/Users/swapnil.mohaniraj/Library/Application Support/Firefox/Profiles/7y1fyk2a.Swapnil" "-foreground" "-no-remote"
+1633417354744	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+2021-10-05 12:32:35.350 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSButton: 0x131b47c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.350 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSButton: 0x131b48800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.351 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSButton: 0x131b44800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.352 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSButton: 0x131b44400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.352 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSButton: 0x131b43000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.353 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131b48400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-10-05 12:32:35.353 firefox-bin[74107:934220] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131bc8400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1633417356313	Marionette	INFO	Listening on port 55496
+1633417356405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://ok1static.oktacdn.com/assets/js/vendor/lib/fingerprint2.min.68ab45bd98459cb766f3ab26d086e5f5.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Extension error: TypeError: g_CS[e] is null moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js 1
+[[Exception stack
+receiveCS@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:61411
+onconnect_listener</<@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/background.js:1:54007
+e@moz-extension://ec7a0161-4170-914a-883b-d87a73af5277/lpfulllib.js:1:5220
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:632:13
+addListener/asyncWithoutClone/<@resource://gre/modules/ExtensionCommon.jsm:2444:39
+]]
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+1633417363635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: https://nutanix--c.na204.visual.force.com/apex/NtnxCaseDashboardConsoleCmpPage?isdtp=vw&sfdcIFrameOrigin=https%3A%2F%2Fnutanix.my.salesforce.com&nonce=df27ea834ff9f5d21a0f714a0539ffcde1759c920785736cee0967f0275504e9, line 158: ReferenceError: checkResult is not defined
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript warning: https://www.google.com/js/bg/N_Vui3MOOs6TvgxItmPteAC_n7qs94YphCwSvIxMLqY.js line 1 > eval line 4616 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 818: DataCloneError: The object could not be cloned.

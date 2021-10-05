@@ -5,3 +5,4 @@ credentials.yaml
 cookies.pkl
 .DS_Store
 /__pycache__/*
+firefox/__pycache__/*
